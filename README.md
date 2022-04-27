@@ -1,13 +1,8 @@
-<h1 align="center">Avançando em React:</h1>
+<h1 align="center">Estudo de  React:</h1>
 
 <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">Segue abaixo uma lista de anotações importantes</p>
 
-O que eu aprendi:
-=================
-<h3>Imagens podem ser armazenadas na pasta public ou dentro da pasta assets</h3>
-
+<h1> Este repositorio foi criado com intuito de compartilhar os conhecimentos do meu estudo em React</h1>
 
 
 
