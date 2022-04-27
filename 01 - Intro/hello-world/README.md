@@ -2,7 +2,8 @@
 
 <a href="https://pt-br.reactjs.org/">🔗 React</a>
 </h1>
-<p align="center">Estudo incial do react. Segue uma lista de anotrações importantes</p>
+<p align="center">Estudo incial do react.</p>
+<p align="center">Segue abaixo uma lista de anotrações importantes</p>
 
 O que eu aprendi:
 =================
