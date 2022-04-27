@@ -9,20 +9,17 @@ O que eu aprendi:
 =================
 
 <h3>1 - Todos os componentes serão criados na mesma pasta.</h3>
-<p> No diretoriod /src, sera criado uma pasta chamadas components.</p>
+<p> No diretorio /src, sera criado uma pasta chamadas components.</p>
 
 <h3>2 - Para serem usados os componetes serão importados no App.js</h3>
 <p>import x from './components/y' : onde x é o nome do componete e y o arquivo que sera importado.</p>
 
-<h3>3 -  <MyComponent/> é o metodo de se chamar um componente na tela</h3>
+<h3>3 -  < MyComponent/> (sem o espaço)é o metodo de se chamar um componente na tela</h3>
 
 <h3>4 - Componentes podem ser importados dentro de outros componentes</h3>
 
 <h3>5 - Eventos tem diversos tipos de tratamentos e maneiras que podem ser exucatadas</h3>
 <p>Para ver exemplos veja o '.src/components/Events.js'</p>
-
-
-
 
 
 
