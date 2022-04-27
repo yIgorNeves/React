@@ -2,7 +2,12 @@
 
 <a href="https://pt-br.reactjs.org/">🔗 React</a>
 
-<h1> Este repositorio foi criado com intuito de compartilhar os conhecimentos do meu estudo em React</h1>
+<h3>Este repositorio foi criado com intuito de compartilhar os conhecimentos do meu estudo em React.</h3>
+<h4>Estes estão sendo meus primeiros passos nessa caminhada.</h4>
+<h4>Todo o estudo esta sendo realizado atraves deste <a href="https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/">🔗 curso</a>.</h4>
+<p></p>
+<p></p>
+<p>Qualquer duvida ou conselho pode entrar em contato comigo pelos canais de comunicação abaixo</p>
 
 
 
